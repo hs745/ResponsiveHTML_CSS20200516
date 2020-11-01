@@ -186,7 +186,10 @@ nav a:focus {
     display: block;
     border-bottom: #707070 1px solid;
     padding-bottom: 2em;
-    margin-bottom: 2em !important;
+}
+
+article {
+    padding-bottom: 15px;
 }
 
 .article-recent {
