@@ -188,7 +188,7 @@ nav a:focus {
     padding-bottom: 2em;
 }
 
-article {
+article.article-featured {
     padding-bottom: 15px;
 }
 
